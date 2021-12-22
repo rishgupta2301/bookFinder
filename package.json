@@ -4,7 +4,7 @@
     "description": "Making book search engine",
     "main": "server.js",
     "scripts": {
-        "start": "node serer.js"
+        "start": "node server.js"
     },
     "author": "rishabh gupta",
     "license": "ISC",
